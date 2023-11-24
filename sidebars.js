@@ -6,7 +6,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'AI',
-      items: ['AI/Docusaurus_test', 'AI/test2', 'AI/test3'],
+      items: ['AI/Docusaurus_test', 'AI/gpt3.5',],
     },
     {
       type: 'category',
