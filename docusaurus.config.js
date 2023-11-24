@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Note', // 已將 'Tutorial' 更改為 'Note'
-                to: '/docs/Intro',
+                to: '/',
               },
             ],
           },
