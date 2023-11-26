@@ -6,12 +6,12 @@ const sidebars = {
     {
       type: 'category',
       label: 'AI',
-      items: ['AI/Docusaurus_test', 'AI/gpt3.5',],
+      items: ['AI/LineBot+gpt-3.5_fine tuning',],
     },
     {
       type: 'category',
-      label: 'BI',
-      items: ['BI/bbb'],
+      label: 'Yolo_v8',
+      items: ['Yolo_v8/Installation','Yolo_v8/Predicting&Training','Yolo_v8/Labeling',],
     },
     /* 註釋開始
     {
