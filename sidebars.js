@@ -5,8 +5,8 @@ const sidebars = {
     'Intro',
     {
       type: 'category',
-      label: 'AI',
-      items: ['AI/LineBot+gpt-3.5_fine tuning',],
+      label: 'AI_project',
+      items: ['AI_project/LineBot+gpt-3.5_fine tuning','AI_project/Screenshot-to-code',],
     },
     {
       type: 'category',
